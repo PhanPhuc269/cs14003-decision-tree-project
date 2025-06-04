@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.sav
+*.arff
+*.zip
+*.rar
+*.7z
+
+# Others
+*.log
+*.bak
+*.tmp
+
+# Graphviz
+*.dot
+*.gv
+*.pdf
+*.png
+*.svg
